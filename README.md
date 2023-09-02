@@ -1,6 +1,6 @@
 # algorithms-programming-assignments
 
-There were assignments given to me in my Algorthims course in university. 
+These were assignments given to me in my algorthims course in university. 
 
 This will hopefully display some knowledge in programming, more specifically in data structures and algorithms. 
 
